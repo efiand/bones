@@ -13,7 +13,7 @@ let numOfCubes = 1;
 
 const sayBye = () => {
 	console.log(byeText);
-	process.exit(1);
+	process.exit();
 };
 
 const play = () => {
