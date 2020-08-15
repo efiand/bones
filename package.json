@@ -1,0 +1,23 @@
+{
+  "name": "bones",
+  "version": "1.0.0",
+  "description": "Игра в кости (консольная).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efiand/bones.git"
+  },
+  "keywords": [],
+  "author": "Andrey Efomov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efiand/bones/issues"
+  },
+  "homepage": "https://github.com/efiand/bones#readme",
+  "dependencies": {
+    "chalk": "4.1.0"
+  }
+}
